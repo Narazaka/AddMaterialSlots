@@ -1,0 +1,17 @@
+{
+  "name": "net.narazaka.vrchat.add-material-slots",
+  "version": "1.0.0",
+  "displayName": "Add Material Slots",
+  "description": "Adds material slots to the renderers by NDMF.",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/AddMaterialSlots.git",
+  "unity": "2019.4",
+  "vpmDependencies": {
+    "nadena.dev.ndmf": ">=1.0.0 <2.0.0-a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Narazaka.VRChat.AddMaterialSlots",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDKBase"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "HAS_NDMF"
+    ],
+    "versionDefines": [
+        {
+            "name": "nadena.dev.ndmf",
+            "expression": "1",
+            "define": "HAS_NDMF"
+        }
+    ],
+    "noEngineReferences": false
+}

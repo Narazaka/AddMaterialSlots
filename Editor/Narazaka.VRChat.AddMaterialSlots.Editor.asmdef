@@ -1,0 +1,28 @@
+{
+    "name": "Narazaka.VRChat.AddMaterialSlots.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Narazaka.VRChat.AddMaterialSlots",
+        "nadena.dev.ndmf",
+        "nadena.dev.ndmf.runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "HAS_NDMF"
+    ],
+    "versionDefines": [
+        {
+            "name": "nadena.dev.ndmf",
+            "expression": "1",
+            "define": "HAS_NDMF"
+        }
+    ],
+    "noEngineReferences": false
+}
