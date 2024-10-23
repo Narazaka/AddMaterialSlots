@@ -1,6 +1,6 @@
 {
   "name": "net.narazaka.vrchat.add-material-slots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Add Material Slots",
   "description": "Adds material slots to the renderers by NDMF.",
   "author": {
