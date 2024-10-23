@@ -38,7 +38,7 @@ namespace Narazaka.VRChat.AddMaterialSlots
 
         Transform GetAvatar()
         {
-            var avatar = GetComponentInParent<VRCAvatarDescriptor>();
+            var avatar = GetComponentInParent<VRCAvatarDescriptor>(true);
             if (avatar == null) return null;
             return avatar.transform;
         }
